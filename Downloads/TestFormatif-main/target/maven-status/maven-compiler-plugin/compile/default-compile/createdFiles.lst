@@ -1,0 +1,17 @@
+model\Membre.class
+view\LivrePanel.class
+view\MembrePanel.class
+model\Emprunt.class
+view\MainFrame$1.class
+view\MainFrame.class
+view\LivrePanel$4.class
+view\LivrePanel$2.class
+view\MainFrame$2.class
+controller\BibliothequeService.class
+database\IDataAccess.class
+model\Livre.class
+view\LivrePanel$3.class
+view\LivrePanel$1.class
+database\DatabaseManager.class
+com\mycompany\vformatifmaven\VFormatifMaven.class
+view\MainFrame$3.class
